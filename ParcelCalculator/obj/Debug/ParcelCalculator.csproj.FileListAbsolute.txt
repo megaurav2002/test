@@ -1,0 +1,7 @@
+C:\Azure Monitor\ParcelCalculator\ParcelCalculator\bin\Debug\ParcelCalculator.exe.config
+C:\Azure Monitor\ParcelCalculator\ParcelCalculator\bin\Debug\ParcelCalculator.exe
+C:\Azure Monitor\ParcelCalculator\ParcelCalculator\bin\Debug\ParcelCalculator.pdb
+C:\Azure Monitor\ParcelCalculator\ParcelCalculator\obj\Debug\ParcelCalculator.csprojAssemblyReference.cache
+C:\Azure Monitor\ParcelCalculator\ParcelCalculator\obj\Debug\ParcelCalculator.csproj.CoreCompileInputs.cache
+C:\Azure Monitor\ParcelCalculator\ParcelCalculator\obj\Debug\ParcelCalculator.exe
+C:\Azure Monitor\ParcelCalculator\ParcelCalculator\obj\Debug\ParcelCalculator.pdb
